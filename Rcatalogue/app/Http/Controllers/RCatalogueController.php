@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Filesystem\Filesystem;
 
-class CatalogueController extends Controller
+class RCatalogueController extends Controller
 {
     /**
      * Create a new controller instance.
